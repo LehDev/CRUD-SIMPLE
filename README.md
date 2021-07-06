@@ -1,7 +1,6 @@
-- # projeto-crud-salvus
-- Código desenvolvido segundo o pedido do teste de desenvolvimento solicitado pela equipe Salvus
+- # projeto-crud-simple
 + 
-+ Código desenvolvido segundo meu conhecimento adquirido como aluna de Desenvolvimento Web Fullstack da Rocketseat 
++ Crud simples desenvolvido para teste
 + 
 + ## O que utilizei para desenvolver:
 + 
@@ -29,7 +28,7 @@
 + 
 + node src/index.js
 + 
-+ No Insomnia abra a página da aplicação em 'http://localhost:3333/projects. Dessa forma a aplicação será executada de      maneira local na sua máquina. 
++ No Insomnia abra a página da aplicação em 'http://localhost:3333/projects. Dessa forma a aplicação será executada de maneira local na sua máquina. 
 + 
 + 
-+ Meus sinceros agradecimentos a equipe Salvos por ter me permitido chegar até aqui... Bora conectar a saúde das pessoas? 🌱
+
